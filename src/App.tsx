@@ -7,10 +7,6 @@ function App() {
       <Post />
       <Post />
       <Post />
-      <Post />
-      <Post />
-      <Post />
-      <Post />
     </div>
   );
 }
